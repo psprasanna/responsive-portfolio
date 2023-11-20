@@ -44,7 +44,7 @@ a:hover{
   text-underline-offset: 1rem;
   text-decoration-color: rgb(181,181,181);
 }
-/* .profile{
+.profile{
   display: grid;
   grid-template-columns: 1fr 1fr;
 }
@@ -52,4 +52,4 @@ a:hover{
   width: 100%;
   display: inline-block;
   border-radius: 250px;
-} */
+}
