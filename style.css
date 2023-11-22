@@ -114,9 +114,22 @@ a:hover{
 .hamburger-icon span:first-child{
   transform: none;
 }
+/* section */
+.section-profile-pic{
+  width: 400px;
+  border-radius: 50px;
+}
+#profile{
+  display: flex;
+  margin: 1fr;
+}
+
+.section-pic-container{
+
+}
 
 
-.profile{
+/* .profile{
   display: grid;
   grid-template-columns: 1fr 1fr;
 }
@@ -124,4 +137,5 @@ a:hover{
   width: 100%;
   display: inline-block;
   border-radius: 250px;
-}
+} */
+
